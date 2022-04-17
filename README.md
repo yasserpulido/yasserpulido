@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasserpulido.
 - 👀 I’m interested in Programming, Wrestling, Soccer, Videogames and Films.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Frontend technologies.
 - 📫 How to reach me https://www.linkedin.com/in/yasserpulido/
 
 <!---
