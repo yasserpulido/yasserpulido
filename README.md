@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend technologies.
 - 📫 How to reach me https://www.linkedin.com/in/yasserpulido/
 
-[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yasserpulido.visitor-badge)
 
