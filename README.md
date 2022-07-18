@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend technologies.
 - 📫 How to reach me https://www.linkedin.com/in/yasserpulido/
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yasserpulido.visitor-badge)
 
 <!---
 yasserpulido/yasserpulido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
