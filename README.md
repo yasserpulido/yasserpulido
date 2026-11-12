@@ -1,7 +1,12 @@
-- 👋 Hi, It's Yasser here. I'm Front end Developer.
-- 👀 I’m interested in Programming, Wrestling, Soccer, Videogames and Films.
-- 🌱 I’m currently learning Frontend technologies.
-- 📫 How to reach me https://www.linkedin.com/in/yasserpulido/
+Frontend Engineer
+
+Yasser Pulido
+
+Building modern, maintainable web experiences.
+
+I'm a Frontend Engineer with extensive experience in React and TypeScript, along with hands-on experience in Angular and Vue. I focus on building scalable, accessible, and maintainable web applications, with a strong interest in frontend architecture, performance, and product engineering.
+
+Interested in remote frontend engineering opportunities and frontend-focused full-stack development.
 
 <!---
 yasserpulido/yasserpulido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
