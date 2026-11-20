@@ -1,12 +1,8 @@
-Frontend Engineer
+I'm a Software Engineer with over 10 years of experience developing frontend, backend, and full-stack solutions for international markets.
 
-Yasser Pulido
+In recent years, I've focused primarily on frontend engineering with React and TypeScript, while maintaining hands-on experience with Angular, Vue, Node.js, and C#/.NET.
 
-Building modern, maintainable web experiences.
-
-I'm a Frontend Engineer with extensive experience in React and TypeScript, along with hands-on experience in Angular and Vue. I focus on building scalable, accessible, and maintainable web applications, with a strong interest in frontend architecture, performance, and product engineering.
-
-Interested in remote frontend engineering opportunities and frontend-focused full-stack development.
+My work includes software architecture, enterprise applications, system modernization, API integrations, and AI-assisted development practices to improve code quality, maintainability, and engineering efficiency.
 
 <!---
 yasserpulido/yasserpulido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
